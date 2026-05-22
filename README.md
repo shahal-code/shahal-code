@@ -1,160 +1,108 @@
 <div align="center">
 
-# Hi 👋 I'm Muhammed Shahal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muhammed%20Shahal&fontSize=70&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%203D%20UI%20Enthusiast&descAlignY=55&descAlign=50&animation=twinkling" />
 
-### 🚀 MERN Stack Developer  
-### 🎨 Building Modern 3D Web Experiences  
-### 💧 Passionate About Apple-Inspired UI & Smooth Animations  
+### 🚀 MERN Stack Developer | 🎨 3D Web Experiences | 💧 Apple-Inspired UI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;3D+Frontend+Designer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Immersive+3D+Experiences;React+%7C+Node.js+%7C+MongoDB;Crafting+Apple-Inspired+Interfaces" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-# 🌌 About Me
-
-```yaml
-Name: Muhammed Shahal
-Role: MERN Stack Developer
-Location: Kerala, India
-Focus: Full Stack Development & Modern UI Engineering
-Portfolio Style: 3D + Glassmorphism + Apple-inspired Design
-Current Goal: Building scalable and immersive web applications
-```
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <h2>🌌 About Me</h2>
+      <p align="left">
+        <strong>Name:</strong> Muhammed Shahal<br>
+        <strong>Role:</strong> MERN Stack Developer<br>
+        <strong>Location:</strong> Kerala, India<br>
+        <strong>Focus:</strong> Full Stack & Modern UI<br>
+        <strong>Style:</strong> 3D + Glassmorphism<br>
+        <strong>Goal:</strong> Scalable & immersive web apps
+      </p>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="3D coding animation" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.3);"/>
+    </td>
+  </tr>
+</table>
 
 ---
-
-# ⚡ Tech Stack
 
 <div align="center">
-
-## 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=for-the-badge&logo=framer)
-![Redux](https://img.shields.io/badge/Redux-0F172A?style=for-the-badge&logo=redux)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0F172A?style=for-the-badge)
-
----
-
-## ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens)
-![REST API](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge)
-
----
-
-## ☁️ Deployment & Cloud
-
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify)
-![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0F172A?style=for-the-badge&logo=cloudinary)
-
----
-
-## 🛠️ Tools & Design
-
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux)
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-0F172A?style=for-the-badge&logo=adobephotoshop)
-![Lightroom](https://img.shields.io/badge/Lightroom-0F172A?style=for-the-badge&logo=adobelightroom)
-
+  <h2>⚡ Tech Stack</h2>
+  <p><i>Hover over the beautiful 3D glass icons</i></p>
 </div>
 
----
+### 🎨 Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,framer&perline=9" alt="Frontend Skills" />
+  </a>
+</p>
 
-# 🚀 Featured Projects
+### ⚙️ Backend & Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,postman&perline=9" alt="Backend Skills" />
+  </a>
+</p>
 
-## 🌌 3D Portfolio Website
-
-Modern portfolio built with:
-- Apple-inspired glassmorphism UI
-- 3D styled interface
-- Smooth animations
-- SEO optimization
-- Responsive architecture
-- Performance optimized design
-
-🔗 Portfolio: https://www.shahl.in
-
----
-
-## 🏢 Mirasco Freelance Project
-
-Professional freelance web application developed for a real client.
-
-### Features
-- Modern responsive UI
-- SEO optimized structure
-- Full-stack architecture
-- Scalable component system
-- Production deployment
-
-🔗 Preview: https://mirasco.in/preview
+### 🛠️ Tools & Deployment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,aws,linux,figma&perline=9" alt="Tools" />
+  </a>
+</p>
 
 ---
-
-## 🛒 Ecommerce Fullstack Application
-
-### Features
-- MERN stack architecture
-- Authentication system
-- Product management
-- Admin dashboard
-- REST API integration
-- Responsive UI
-
----
-
-# 📈 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahal-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahal-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
+  <h2>🚀 Featured Projects</h2>
 </div>
 
-<div align="center">
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <h3>🌌 3D Portfolio Website</h3>
+      <p>Apple-inspired glassmorphism UI with 3D styled interface and smooth animations.</p>
+      <a href="https://www.shahl.in"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <h3>🏢 Mirasco App</h3>
+      <p>Professional freelance web application developed for a real client.</p>
+      <a href="https://mirasco.in/preview"><img src="https://img.shields.io/badge/Live_Preview-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahal-code&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome)](https://www.shahl.in)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin)](your-linkedin-link)
-
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail)](mailto:shahalwork14@gmail.com)
-
+  <h2>📈 GitHub Analytics</h2>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahal-code&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&ring_color=8B5CF6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahal-code&theme=react&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6" width="48%" />
 </div>
 
 ---
 
 <div align="center">
+  <h2>🌐 Connect With Me</h2>
+  
+  <a href="https://www.shahl.in">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="your-linkedin-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahalwork14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-### ✨ "Building immersive digital experiences with modern technologies." ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 </div>
