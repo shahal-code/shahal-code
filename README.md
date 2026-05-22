@@ -124,12 +124,17 @@ Professional freelance web application developed for a real client.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahal-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahal-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahal-code&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahal-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahal-code&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
 ---
 
 # 🌐 Connect With Me
