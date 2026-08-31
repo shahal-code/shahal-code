@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muhammed%20Shahal&fontSize=70&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%203D%20UI%20Enthusiast&descAlignY=55&descAlign=50&animation=twinkling" />
 
-### 🚀 MERN Stack Developer | 🎨 3D Web Experiences | 
+### 🚀 Software Engineer | 🎨 3D Web Experiences | 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Immersive+3D+Experiences;React+%7C+Node.js+%7C+MongoDB;Crafting+Apple-Inspired+Interfaces" alt="Typing SVG" /></a>
 
